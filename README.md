@@ -33,7 +33,7 @@ purchase_df.head(10)
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -45,7 +45,7 @@ purchase_df.head(10)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -170,7 +170,7 @@ total_players_df
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -182,7 +182,7 @@ total_players_df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -221,7 +221,7 @@ purchasing_analysis
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -233,7 +233,7 @@ purchasing_analysis
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -320,7 +320,7 @@ gender_demographic
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -332,7 +332,7 @@ gender_demographic
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -410,7 +410,7 @@ purchasing_analysis_gender
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -422,7 +422,7 @@ purchasing_analysis_gender
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -511,7 +511,7 @@ age_demographic
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -523,7 +523,7 @@ age_demographic
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -656,7 +656,7 @@ age_purchase_analysis
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -668,7 +668,7 @@ age_purchase_analysis
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -783,7 +783,7 @@ top_5_df
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -795,7 +795,7 @@ top_5_df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -880,7 +880,7 @@ top_items_df
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -892,7 +892,7 @@ top_items_df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -980,7 +980,7 @@ top_profit_df
 
 
 <div>
-<style>
+
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -992,7 +992,7 @@ top_profit_df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
